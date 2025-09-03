@@ -9,7 +9,7 @@ namespace PruebaGitHub
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola GitHub");
+            MessageBox.Show("Hola GitHub desde GitHub");
         }
     }
 }
